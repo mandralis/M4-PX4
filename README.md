@@ -1,3 +1,13 @@
+# Note
+Because this is a forked repository, before building you have to fetch the tags from the upstream repository:
+
+`git remote add upstream https://github.com/PX4/PX4-Autopilot.git`
+
+`git fetch upstream`
+
+`git fetch upstream --tags`
+
+
 # PX4 Drone Autopilot
 
 [![Releases](https://img.shields.io/github/release/PX4/PX4-Autopilot.svg)](https://github.com/PX4/PX4-Autopilot/releases) [![DOI](https://zenodo.org/badge/22634/PX4/PX4-Autopilot.svg)](https://zenodo.org/badge/latestdoi/22634/PX4/PX4-Autopilot)
