@@ -7,6 +7,8 @@ Because this is a forked repository, before building you have to fetch the tags 
 
 `git fetch upstream --tags`
 
+You also might need to set the parameter `EKF2_GSF_TAS=0.0` in QGroundControl.
+
 
 # PX4 Drone Autopilot
 
